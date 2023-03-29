@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int a = 10;
+            int b = 0;
+            Console.WriteLine(a + b);
         }
     }
 }
